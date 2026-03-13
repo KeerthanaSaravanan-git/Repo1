@@ -1,12 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 94A5-8B89
-
- Directory of C:\Users\ACER\Desktop\MyNewProject_Git
-
-13-03-2026  15:15    <DIR>          .
-13-03-2026  14:11    <DIR>          ..
-13-03-2026  12:50               404 index.html
-13-03-2026  12:46                 0 index2.html
-13-03-2026  15:15                 0 Release.txt
-               3 File(s)            404 bytes
-               2 Dir(s)  148,557,012,992 bytes free
+changes maded
